@@ -11,6 +11,8 @@ Adrian Moskalow
 Tomasz Gondek
 
 Amanda Mrozik 
+
+Dominik Dec
 #
 
 
